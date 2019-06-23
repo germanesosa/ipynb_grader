@@ -1,6 +1,6 @@
 # Jupyter Grader
 
-Este cuaderno interactivo de Jupyter Notebook fue creado con el objetivo de fijar un criterio de corrección (rúbrica) aprovechando las posibilidades de ipywidgets, emulando el sistema utilizado en sistemas LMS como Mooddle.
+Este cuaderno interactivo de Jupyter Notebook fue creado con el objetivo de fijar un criterio de corrección (rúbrica) aprovechando las posibilidades de ipywidgets, emulando el sistema utilizado en sistemas LMS como Moddle.
 
 Además de lograr un criterio transversal de corrección entre un equipo de docentes, puede ser compartido con los alumnos con antelación a la ejecución de la tarea (tarea propiamente dicha, examen, trabajo práctico, etc).
 
